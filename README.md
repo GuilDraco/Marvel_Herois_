@@ -7,7 +7,7 @@
 - Informações sobre a API disponíveis em https://developer.marvel.com/documentation/.
 
 ## :ok_hand: :ok_hand: Amostra do projeto
-![desafio_marvel_gif](https://user-images.githubusercontent.com/47400782/168345464-66d333d1-3c34-411b-8790-edbd9f38ca39.gif)
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/47400782/168346262-d93e3e69-af23-4657-8dc6-f7d1d150ff20.gif)
 
 
 ## :ok_hand: Tecnologias do projeto
