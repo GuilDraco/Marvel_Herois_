@@ -6,6 +6,10 @@
 - Endpoint  <strong>/v1/public/characters</strong>.
 - Informações sobre a API disponíveis em https://developer.marvel.com/documentation/.
 
+## :ok_hand: :ok_hand: Amostra do projeto
+![desafio_marvel_gif](https://user-images.githubusercontent.com/47400782/168345464-66d333d1-3c34-411b-8790-edbd9f38ca39.gif)
+
+
 ## :ok_hand: Tecnologias do projeto
 
 - Scroll Infinito: Foi criada uma classe para gerenciamento de paginação através da biblioteca Paging 3.
